@@ -1,7 +1,7 @@
 # sqlalchemy-challenge
 UCB Data Analytics-Challenge 10
 
-CHALLENGE PURPOSE : In this challenge, xxxxxxxxxxxxxxxxxxxxx.
+CHALLENGE PURPOSE : In this challenge, climate analysis about Honululu, Hawaii while demonstrating use of Python and SQLAlchemy to do a basic climate analysis and data exploration of your climate database. Specifically, use SQLAlchemy ORM queries, Pandas, and Matplotlib.  
 
 # References
 The dataset used xxxxxx
